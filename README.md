@@ -1,2 +1,4 @@
 # Nepali-license-plate-data-generation
-only to be used for training purposes
+Clone the repository and change the values as per your requirements
+Run the program thst will save the ready license plate.
+
